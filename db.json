@@ -7,5 +7,12 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products":
+  [
+    {"id":1,"title":"Laptop","price":10000,"likes":10,"quantity":100,"image":"https://picsum.photos/id/100/100/100"},
+    {"id":2,"title":"Desktop","price":20000,"likes":20,"quantity":300,"image":"https://picsum.photos/id/101/100/100"},
+    {"id":3,"title":"Mobile","price":5000,"likes":40,"quantity":800,"image":"https://picsum.photos/id/102/100/100"},
+    {"id":4,"title":"Tablet","price":15000,"likes":50,"quantity":200,"image":"https://picsum.photos/id/103/100/100"},
+  ]
 }
