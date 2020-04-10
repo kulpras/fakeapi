@@ -13,9 +13,9 @@
       "title": "hello world react"
     }
   ],
-  "songs": {
+  "songs": [{
     "id": "1",
     "title:"test",
     "url":"url"
-  }  
+  }  ]
 }
