@@ -16,12 +16,5 @@
       "id": 4,
       "title": "hello world react"
     }
-  ],
-  "songs": [
-    {
-      "id": "1",
-      "title":"test",
-      "url":"https://www.google.com"
-    } 
   ]
 }
